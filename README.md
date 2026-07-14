@@ -21,7 +21,7 @@
 <tr>
 <td width="100%" valign="top">
 
-### `whoami`
+### 
 
 Cybersecurity Engineering student building at the intersection of **applied ML and security**. Operations Lead at Aegis Cybersecurity Club, focused on detection systems that catch threats before they cause damage — not after.
 
