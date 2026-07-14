@@ -1,0 +1,13 @@
+<svg width="560" height="280" viewBox="0 0 560 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="560" height="280" rx="28" fill="#09101A"/>
+  <rect x="24" y="24" width="512" height="80" rx="20" fill="#0F1B2C" stroke="#39D9FF" stroke-opacity="0.2"/>
+  <text x="48" y="56" fill="#D6E6FF" font-family="Inter, sans-serif" font-size="18" font-weight="700">AuraView</text>
+  <text x="48" y="84" fill="#94B6FF" font-family="Inter, sans-serif" font-size="12">Air quality prediction and visualization for actionable environmental insight.</text>
+  <line x1="48" y1="124" x2="512" y2="124" stroke="#39D9FF" stroke-opacity="0.18" stroke-width="1.5"/>
+  <text x="48" y="156" fill="#B8D7FF" font-family="Inter, sans-serif" font-size="13" font-weight="600">Technology stack</text>
+  <text x="48" y="178" fill="#A2C4FF" font-family="Inter, sans-serif" font-size="12">Python · ML regression · data visualization</text>
+  <text x="48" y="206" fill="#B8D7FF" font-family="Inter, sans-serif" font-size="13" font-weight="600">Architecture</text>
+  <text x="48" y="228" fill="#A2C4FF" font-family="Inter, sans-serif" font-size="12">Data ingestion → prediction engine → analytics interface.</text>
+  <rect x="48" y="248" width="160" height="24" rx="12" fill="#142C48"/>
+  <text x="64" y="266" fill="#8DDFFF" font-family="Inter, sans-serif" font-size="12">VIEW REPOSITORY</text>
+</svg>

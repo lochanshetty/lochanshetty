@@ -1,100 +1,98 @@
-<div align="center">
+<img src="assets/banner.svg" width="100%" alt="Profile banner" />
 
-# Lochan Arun
+## Security portfolio
 
-**Cybersecurity Engineering Student · Application Security Enthusiast · AI Security Research · Malware Detection**
+Lochan Arun builds practical security systems by combining software engineering, network visibility, and cybersecurity analysis. He focuses on secure backend architecture, runtime threat detection, and application-level resilience.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/your-username)
+As Operations Lead at Aegis Cybersecurity Club and a BE Computer Science graduate in Cybersecurity (2027), he evaluates real attack behavior, designs defenses, and supports team operations with a security-first mindset.
 
-</div>
+<img src="assets/terminal.svg" width="100%" alt="Security terminal profile" />
 
-<br>
+---
 
-## About Me
+## Current focus
 
-I'm a Cybersecurity Engineering student at Dayananda Sagar College of Engineering, focused on the intersection of applied security and machine learning. As Operations Lead at Aegis Cybersecurity Club, I coordinate technical workshops and CTF preparation for a student community centered on offensive and defensive security practice.
+- AI Powered Ransomware Detection
+- Application Security
+- Python Development
+- Django
+- Linux
+- Network Security
+- Threat Detection
+- Cisco Networking
+- Malware Analysis
+- Secure Backend Development
 
-My core interest lies in building systems that detect and respond to threats before they cause damage — from AI-assisted malware detection pipelines to secure-by-design application architecture. I approach security less as a checklist and more as a design constraint: code should be built to resist misuse from the first line, not patched after the fact.
+---
 
-I'm currently deepening my knowledge of application security, network fundamentals, and secure software development, with the long-term goal of working in AI-powered security tooling or Application Security engineering.
+## Technical skills
 
-<br>
+<img src="assets/skills.svg" width="100%" alt="Skill overview" />
 
-## Current Focus
-
-| Area | Details |
+| Category | Core expertise |
 |---|---|
-| Languages & Frameworks | Python, Django |
-| Systems | Linux internals, shell scripting |
-| Networking | TCP/IP fundamentals, routing & switching |
-| Security | API Security, OWASP Top 10, malware analysis, threat detection |
-| Practice | DevSecOps principles, secure CI/CD workflows |
-
-<br>
-
-## Technical Skills
-
-**Programming**
-`Python` · `C`
-
-**Frameworks**
-`Django` · `Flutter`
-
-**Cybersecurity**
-`Wireshark` · `Nmap` · `Burp Suite` · `OWASP Top 10` · `SQL Injection` · `XSS` · `Network Traffic Analysis`
-
-**Networking**
-`TCP/IP` · `OSI Model` · `Routing & Switching` · `DNS` · `HTTP/HTTPS`
-
-**Systems & Tools**
-`Linux` · `Bash` · `Git` · `GitHub` · `VS Code` · `Postman` · `Packet Tracer`
-
-**Databases**
-`SQLite` · `MySQL`
-
-<br>
-
-## Featured Projects
-
-### AI-Powered Ransomware Early Detection System
-
-A behavioral detection system that identifies ransomware activity before encryption completes, rather than relying on static signature matching. The system monitors file-system and process activity in real time, flags anomalous patterns using a trained ML model, and surfaces alerts through a monitoring dashboard — aimed at closing the detection gap in early-stage ransomware attacks.
-
-- **Tech stack:** Python, Django, scikit-learn, file-system monitoring
-- **Key features:** Real-time behavioral monitoring, ML-based anomaly classification, alerting dashboard
-- **Repository:** [github.com/your-username/ransomware-detection](https://github.com/your-username/ransomware-detection)
+| Programming | Python · C · C++ · Java · SQL · Bash |
+| Frameworks | Django · Flutter |
+| Databases | SQLite · MySQL |
+| Cybersecurity | Linux · Wireshark · Nmap · Burp Suite · Cisco Packet Tracer |
+| Networking | OWASP Top 10 · TCP/IP · OSI Model · Network Analysis · Packet Analysis |
+| Security operations | Threat Detection · Malware Analysis · Reverse Engineering · Secure Coding |
+| Tools | Git · GitHub · VS Code · Postman · VirtualBox |
 
 ---
 
-### AuraView — Air Quality Prediction & Visualization
+## Featured projects
 
-An air pollution prediction system that models AQI trends from historical and real-time environmental data, then presents forecasts through an interactive visualization layer. Built to make air quality data more interpretable for non-technical users while keeping the underlying prediction pipeline extensible.
+[![AI Powered Ransomware Detection](assets/project-ai.svg)](https://github.com/lochanshetty/ransomware-detection)
 
-- **Tech stack:** Python, Machine Learning (regression/time-series), data visualization
-- **Key features:** AQI forecasting model, trend visualization, extensible data pipeline
-- **Repository:** [github.com/your-username/auraview](https://github.com/your-username/auraview)
+**AI Powered Ransomware Detection** — A detection pipeline built to identify ransomware behavior before file encryption completes. The system combines process monitoring, anomaly scoring, and alert orchestration.
+
+[![AuraView](assets/project-auraview.svg)](https://github.com/lochanshetty/auraview)
+
+**AuraView** — Environmental analytics and forecast visualization for air quality. It transforms historical data into actionable insight through a lightweight prediction interface.
+
+[![Paw](assets/project-paw.svg)](https://github.com/lochanshetty/paw)
+
+**Paw** — A cross-platform mobile application for pet care, health tracking, and scheduling.
 
 ---
 
-### Paw — Pet Care Application
+## Certifications
 
-A cross-platform mobile application for pet owners, covering care scheduling, health tracking, and pet-parent resources in a single interface. Built with a focus on clean UX and a scalable backend structure for future feature expansion.
+- Google Cybersecurity Professional Certificate
 
-- **Tech stack:** Flutter, Dart, Firebase
-- **Key features:** Pet health & schedule tracking, cloud-synced data, cross-platform support
-- **Repository:** [github.com/your-username/paw](https://github.com/your-username/paw)
+---
 
-<br>
+## Research interests
 
-## GitHub Analytics
+- Application Security
+- AI Security
+- Malware Analysis
+- Threat Hunting
+- Cloud Security
+- Network Security
+- DevSecOps
+- Threat Intelligence
+- Reverse Engineering
+
+---
+
+## GitHub analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&theme=github_dark&hide_title=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&hide_border=true&theme=github-dark" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true&theme=github_dark" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=lochanshetty&show_icons=true&theme=dark&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lochanshetty&layout=compact&hide_border=true&theme=dark" width="48%" />
 
 </div>
+
+---
+
+## Connect
+
+- GitHub: https://github.com/lochanshetty
+- LinkedIn: https://linkedin.com/in/your-linkedin
+- Email: mailto:your.email@example.com
+- Portfolio: https://your-portfolio.example.com
+
+<img src="assets/footer.svg" width="100%" alt="Footer" />

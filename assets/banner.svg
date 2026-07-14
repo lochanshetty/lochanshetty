@@ -1,0 +1,41 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#08111C"/>
+      <stop offset="1" stop-color="#0F1B2A"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#39D9FF" stop-opacity="0.1"/>
+      <stop offset="0.5" stop-color="#6D8EFF" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#39D9FF" stop-opacity="0.1"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <rect x="24" y="24" width="1152" height="312" rx="20" fill="rgba(255,255,255,0.03)" stroke="rgba(57,217,255,0.18)"/>
+  <rect x="96" y="62" width="520" height="220" rx="18" fill="rgba(255,255,255,0.04)"/>
+  <rect x="96" y="62" width="520" height="32" rx="10" fill="#0E1C2A"/>
+  <text x="118" y="86" fill="#7EB8FF" font-family="Inter, sans-serif" font-size="12" letter-spacing="0.15em">TERMINAL</text>
+  <text x="118" y="122" fill="#E7F0FF" font-family="Inter, sans-serif" font-size="34" font-weight="700">Lochan Arun</text>
+  <text x="118" y="160" fill="#B8CAF6" font-family="Inter, sans-serif" font-size="16">Application Security · AI Security · Malware Detection</text>
+  <text x="118" y="190" fill="#AFC9FF" font-family="Inter, sans-serif" font-size="14">Operations Lead · Aegis Cybersecurity Club · BE Cybersecurity ’27</text>
+  <text x="118" y="224" fill="#8CB3F2" font-family="Inter, sans-serif" font-size="14">Secure backend systems, detection pipelines, and attack surface analysis.</text>
+  <path d="M98 284H600" stroke="#39D9FF" stroke-opacity="0.18" stroke-width="1"/>
+  <path d="M440 98L506 128L440 158" stroke="#39D9FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M1060 38H1140" stroke="#39D9FF" stroke-width="2" stroke-linecap="round"/>
+  <path d="M1060 74H1140" stroke="#39D9FF" stroke-width="2" stroke-linecap="round"/>
+  <path d="M1060 110H1140" stroke="#39D9FF" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="1026" cy="60" r="14" fill="#0B1722" stroke="#39D9FF" stroke-width="1.5"/>
+  <circle cx="1086" cy="60" r="14" fill="#0B1722" stroke="#39D9FF" stroke-width="1.5"/>
+  <circle cx="1146" cy="60" r="14" fill="#0B1722" stroke="#39D9FF" stroke-width="1.5"/>
+  <rect x="760" y="84" width="360" height="220" rx="18" fill="#0E1C2A"/>
+  <circle cx="792" cy="112" r="6" fill="#39D9FF"/>
+  <circle cx="818" cy="112" r="6" fill="#6D8EFF"/>
+  <circle cx="844" cy="112" r="6" fill="#61FFED"/>
+  <text x="780" y="150" fill="#E7F0FF" font-family="Inter, sans-serif" font-size="16">Secure engineering lines</text>
+  <text x="780" y="178" fill="#8CB3F2" font-family="Inter, sans-serif" font-size="14">AI-backed analysis, runtime monitoring and network visibility.</text>
+  <rect x="780" y="214" width="160" height="36" rx="10" fill="#1C2A3B"/>
+  <text x="792" y="237" fill="#39D9FF" font-family="Inter, sans-serif" font-size="12">CODE</text>
+  <rect x="960" y="214" width="160" height="36" rx="10" fill="#1C2A3B"/>
+  <text x="972" y="237" fill="#61FFED" font-family="Inter, sans-serif" font-size="12">SECURITY</text>
+  <rect x="76" y="76" width="1048" height="232" rx="18" fill="url(#glow)" opacity="0.08"/>
+</svg>

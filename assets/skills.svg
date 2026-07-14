@@ -1,0 +1,41 @@
+<svg width="960" height="320" viewBox="0 0 960 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="skillGradient" x1="0" y1="0" x2="960" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0A1625"/>
+      <stop offset="1" stop-color="#11223A"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="320" rx="24" fill="url(#skillGradient)"/>
+  <rect x="32" y="32" width="896" height="88" rx="18" fill="#0D1A2B" stroke="#2F6CD1" stroke-opacity="0.3"/>
+  <text x="56" y="68" fill="#A9C9FF" font-family="Inter, sans-serif" font-size="20" font-weight="700">Technical skill matrix</text>
+  <g opacity="0.95">
+    <rect x="40" y="140" width="180" height="128" rx="14" fill="#0B1A2B" stroke="#3D7CFF" stroke-opacity="0.18"/>
+    <rect x="248" y="140" width="180" height="128" rx="14" fill="#0B1A2B" stroke="#3D7CFF" stroke-opacity="0.18"/>
+    <rect x="456" y="140" width="180" height="128" rx="14" fill="#0B1A2B" stroke="#3D7CFF" stroke-opacity="0.18"/>
+    <rect x="664" y="140" width="272" height="128" rx="14" fill="#0B1A2B" stroke="#3D7CFF" stroke-opacity="0.18"/>
+  </g>
+  <text x="64" y="172" fill="#E7F3FF" font-family="Inter, sans-serif" font-size="14" font-weight="600">Languages</text>
+  <text x="64" y="195" fill="#A3BEFF" font-family="Inter, sans-serif" font-size="12">Python</text>
+  <text x="64" y="215" fill="#A3BEFF" font-family="Inter, sans-serif" font-size="12">C</text>
+  <text x="64" y="235" fill="#A3BEFF" font-family="Inter, sans-serif" font-size="12">C++</text>
+  <text x="64" y="255" fill="#A3BEFF" font-family="Inter, sans-serif" font-size="12">Java</text>
+  <text x="64" y="275" fill="#A3BEFF" font-family="Inter, sans-serif" font-size="12">SQL</text>
+  <text x="272" y="172" fill="#E7F3FF" font-family="Inter, sans-serif" font-size="14" font-weight="600">Frameworks</text>
+  <text x="272" y="195" fill="#A3BEFF" font-family="Inter, sans-serif" font-size="12">Django</text>
+  <text x="272" y="215" fill="#A3BEFF" font-family="Inter, sans-serif" font-size="12">Flutter</text>
+  <text x="272" y="235" fill="#A3BEFF" font-family="Inter, sans-serif" font-size="12">SQLite</text>
+  <text x="272" y="255" fill="#A3BEFF" font-family="Inter, sans-serif" font-size="12">MySQL</text>
+  <text x="272" y="275" fill="#A3BEFF" font-family="Inter, sans-serif" font-size="12">Bash</text>
+  <text x="480" y="172" fill="#E7F3FF" font-family="Inter, sans-serif" font-size="14" font-weight="600">Security</text>
+  <text x="480" y="195" fill="#A3BEFF" font-family="Inter, sans-serif" font-size="12">Linux</text>
+  <text x="480" y="215" fill="#A3BEFF" font-family="Inter, sans-serif" font-size="12">Wireshark</text>
+  <text x="480" y="235" fill="#A3BEFF" font-family="Inter, sans-serif" font-size="12">Nmap</text>
+  <text x="480" y="255" fill="#A3BEFF" font-family="Inter, sans-serif" font-size="12">Burp Suite</text>
+  <text x="480" y="275" fill="#A3BEFF" font-family="Inter, sans-serif" font-size="12">Packet Analysis</text>
+  <text x="688" y="172" fill="#E7F3FF" font-family="Inter, sans-serif" font-size="14" font-weight="600">Operational tools</text>
+  <text x="688" y="195" fill="#A3BEFF" font-family="Inter, sans-serif" font-size="12">Git</text>
+  <text x="688" y="215" fill="#A3BEFF" font-family="Inter, sans-serif" font-size="12">GitHub</text>
+  <text x="688" y="235" fill="#A3BEFF" font-family="Inter, sans-serif" font-size="12">VS Code</text>
+  <text x="688" y="255" fill="#A3BEFF" font-family="Inter, sans-serif" font-size="12">Postman</text>
+  <text x="688" y="275" fill="#A3BEFF" font-family="Inter, sans-serif" font-size="12">VirtualBox</text>
+</svg>

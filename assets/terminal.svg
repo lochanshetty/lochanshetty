@@ -1,0 +1,17 @@
+<svg width="960" height="280" viewBox="0 0 960 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="280" rx="24" fill="#09111B"/>
+  <rect x="0" y="0" width="960" height="40" rx="24" fill="#0F1C2C"/>
+  <circle cx="44" cy="20" r="7" fill="#2E8BFF"/>
+  <circle cx="72" cy="20" r="7" fill="#5FC7F3"/>
+  <circle cx="100" cy="20" r="7" fill="#8FF2D2"/>
+  <text x="34" y="34" fill="#7EB8FF" font-family="JetBrains Mono, monospace" font-size="12">SECURITY TERMINAL</text>
+  <path d="M52 64H908" stroke="#2E8BFF" stroke-opacity="0.2" stroke-width="1.5"/>
+  <text x="60" y="92" fill="#E9F3FF" font-family="JetBrains Mono, monospace" font-size="14">Name        : Lochan Arun</text>
+  <text x="60" y="118" fill="#B4CCFF" font-family="JetBrains Mono, monospace" font-size="14">Role        : Cybersecurity Engineering Student</text>
+  <text x="60" y="144" fill="#B4CCFF" font-family="JetBrains Mono, monospace" font-size="14">Focus       : AI Malware Detection</text>
+  <text x="60" y="170" fill="#B4CCFF" font-family="JetBrains Mono, monospace" font-size="14">Stack       : Python • Django • Linux</text>
+  <text x="60" y="196" fill="#B4CCFF" font-family="JetBrains Mono, monospace" font-size="14">Network     : Wireshark • Nmap • TCP/IP</text>
+  <text x="60" y="222" fill="#B4CCFF" font-family="JetBrains Mono, monospace" font-size="14">Status      : Building Secure Systems</text>
+  <rect x="48" y="240" width="144" height="24" rx="12" fill="#134A7C" opacity="0.9"/>
+  <text x="68" y="258" fill="#A6DFFF" font-family="JetBrains Mono, monospace" font-size="12">SYSTEM CHECK</text>
+</svg>

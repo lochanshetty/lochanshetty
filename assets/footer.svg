@@ -1,0 +1,5 @@
+<svg width="1200" height="96" viewBox="0 0 1200 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="96" rx="24" fill="#07101A"/>
+  <path d="M84 44H1116" stroke="#2F73D9" stroke-opacity="0.18" stroke-width="1.4"/>
+  <text x="84" y="62" fill="#94B6FF" font-family="Inter, sans-serif" font-size="13">Design system: security-first, minimal, engineered for recruiter clarity.</text>
+</svg>
