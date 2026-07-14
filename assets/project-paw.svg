@@ -1,13 +1,11 @@
 <svg width="560" height="280" viewBox="0 0 560 280" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="560" height="280" rx="28" fill="#09101A"/>
-  <rect x="24" y="24" width="512" height="80" rx="20" fill="#0F1B2C" stroke="#39D9FF" stroke-opacity="0.2"/>
-  <text x="48" y="56" fill="#D6E6FF" font-family="Inter, sans-serif" font-size="18" font-weight="700">Paw</text>
-  <text x="48" y="84" fill="#94B6FF" font-family="Inter, sans-serif" font-size="12">A cross-platform mobile app for pet care, health tracking, and scheduling.</text>
-  <line x1="48" y1="124" x2="512" y2="124" stroke="#39D9FF" stroke-opacity="0.18" stroke-width="1.5"/>
-  <text x="48" y="156" fill="#B8D7FF" font-family="Inter, sans-serif" font-size="13" font-weight="600">Technology stack</text>
-  <text x="48" y="178" fill="#A2C4FF" font-family="Inter, sans-serif" font-size="12">Flutter · Dart · Firebase</text>
-  <text x="48" y="206" fill="#B8D7FF" font-family="Inter, sans-serif" font-size="13" font-weight="600">Architecture</text>
-  <text x="48" y="228" fill="#A2C4FF" font-family="Inter, sans-serif" font-size="12">Mobile frontend → cloud sync → user care workflows.</text>
-  <rect x="48" y="248" width="160" height="24" rx="12" fill="#142C48"/>
-  <text x="64" y="266" fill="#8DDFFF" font-family="Inter, sans-serif" font-size="12">VIEW REPOSITORY</text>
+  <rect width="560" height="280" rx="32" fill="#0D1117" stroke="#58A6FF" stroke-opacity="0.15"/>
+  <rect x="32" y="32" width="496" height="68" rx="20" fill="#10161F"/>
+  <text x="52" y="60" fill="#F8FAFC" font-family="Inter, sans-serif" font-size="18" font-weight="700">Paw</text>
+  <rect x="40" y="118" width="120" height="28" rx="14" fill="#0D1117" stroke="#00E5FF" stroke-opacity="0.22"/>
+  <text x="58" y="136" fill="#00E5FF" font-family="Inter, sans-serif" font-size="12">Flutter · Dart</text>
+  <path d="M420 152C420 154 434 162 434 162C434 162 452 158 456 145C460 132 452 116 434 112C416 108 400 116 398 132C396 148 406 154 420 152Z" fill="#00E5FF" opacity="0.16"/>
+  <path d="M396 150C402 130 420 118 436 124C452 130 460 152 454 170C448 188 428 202 408 192C388 182 390 166 396 150Z" fill="#58A6FF" opacity="0.18"/>
+  <text x="52" y="164" fill="#C3D9FF" font-family="Inter, sans-serif" font-size="12">Architecture</text>
+  <text x="52" y="184" fill="#94BFFF" font-family="Inter, sans-serif" font-size="11">Mobile interface → sync backend → care scheduler</text>
 </svg>
